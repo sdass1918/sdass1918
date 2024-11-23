@@ -52,9 +52,9 @@ I currently work as a **Drona** at **Eklavya.Me**, an ed-tech platform, where I 
 
 ### 📫 **Get In Touch**
 
-- **Email:** [sudipta@example.com](mailto:sd1216826@gmail.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/sudipta-das19/)
-- **GitHub:** [github.com/your-github](https://github.com/sdass1918)
+- **Email:** [sudipta@gmail.com](mailto:sd1216826@gmail.com)
+- **LinkedIn:** [linkedin.com/in/sudipta](https://www.linkedin.com/in/sudipta-das19/)
+- **GitHub:** [github.com/sudipta](https://github.com/sdass1918)
 
 ---
 
