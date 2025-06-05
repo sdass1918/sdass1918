@@ -1,63 +1,21 @@
-# Hi there, I'm Sudipta Das 👋
+# 💫 About Me:
+I am currently pursuing a B.Tech. in Mathematics and Computing at Rajiv Gandhi Institute of Petroleum Technology, an Institution of National Importance. As a top 5% performer among 20,000+ students nationwide in the coding rounds organised as a selection process for ATF program, I have consistently demonstrated academic excellence, with a CPI of 8.55. My journey began by cracking the highly competitive JEE Advanced 2023, securing a place in this prestigious institution.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudipta-das19) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sd1216826@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sdass1918&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sdass1918&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sdass1918&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sdass1918&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sdass1918&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🏫 **Engineering Student | Mathematics & Computing | Rajiv Gandhi Institute of Petroleum Technology**
-
-I am currently pursuing a **B.Tech. in Mathematics and Computing** at **Rajiv Gandhi Institute of Petroleum Technology**, an Institution of National Importance. As a **top 5% performer** among 20,000+ second-year students nationwide in the coding rounds organised as a selection process for ATF program, I have consistently demonstrated academic excellence, with a **CPI of 8.29**. My journey began by cracking the highly competitive **JEE Advanced 2023**, securing a place in this prestigious institution.
-
----
-
-### 💻 **Competitive Programmer | Problem Solver**
-
-I am deeply passionate about problem-solving and competitive programming, actively engaging with platforms like **CodeChef** and **Codeforces**. These platforms have helped me strengthen my skills in algorithms, data structures, and writing efficient, optimized code. With every contest, I continue to push my boundaries, learning perseverance and adaptability in solving complex challenges.
-
-- **Codeforces:** [Handle](https://codeforces.com/profile/sdass1918)
-- **CodeChef:** [Handle](https://www.codechef.com/users/s_dass1918)
-
----
-
-### 🌐 **Tech Enthusiast | Web Developer**
-
-I am a tech enthusiast with a strong interest in **frontend development**. I have built several projects using **HTML, CSS, and JavaScript**, constantly exploring new frameworks and tools in web development. My ability to create responsive and interactive web applications, coupled with my enthusiasm for emerging technologies, allows me to stay ahead in the rapidly evolving tech landscape.
-
----
-
-### 🎥 **Creative Pursuits | Photography & Filmmaking**
-
-Beyond coding, I have a creative side expressed through **photography** and **filmmaking**. I capture the world around me through my camera, crafting visual stories that merge my technical precision with artistic creativity. This balance between my technical pursuits and artistic expression allows me to approach problem-solving from a broader perspective.
-
----
-
-### 🌟 **Leadership & Collaboration**
-
-I am an active member of the **GeeksforGeeks Student Chapter** at my college, where I have had the opportunity to lead and collaborate on various technical and design teams. These experiences have not only expanded my technical skills but also helped me develop strong leadership and teamwork capabilities, essential for thriving in collaborative environments.
-
----
-
-### 🚀 **Work Experience | Drona at Eklavya.Me**
-
-I currently work as a **Drona** at **Eklavya.Me**, an ed-tech platform, where I create and record educational videos for students across the country. This role has allowed me to make meaningful contributions by combining my technical expertise with my passion for education and content creation.
-
----
-
-### 🏆 **Achievements**
-
-- Ranked in the **Top 10%** of 20,000 students nationwide in the **Algo University ATF Fellowship Program** coding contest.
-- Consistently maintained a **CPI of 8.29** in **B.Tech. in Mathematics and Computing**.
-- Developed a variety of **frontend projects** using **HTML, CSS, and JavaScript**.
-- Actively participated in competitive programming on platforms like **CodeChef** and **Codeforces**.
-
----
-
-### 📫 **Get In Touch**
-
-- **Email:** [sudipta@gmail.com](mailto:sd1216826@gmail.com)
-- **LinkedIn:** [linkedin.com/in/sudipta](https://www.linkedin.com/in/sudipta-das19/)
-- **GitHub:** [github.com/sudipta](https://github.com/sdass1918)
-
----
-
-### ⚡ **Fun Fact**
-
-When I’m not coding or working on educational content, you’ll likely find me capturing the beauty of the world through my camera or brainstorming creative film ideas!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
